@@ -1,0 +1,16 @@
+{
+  "name": "ts-side-effects",
+  "version": "1.0.0",
+  "description": "just me testing side effect imports",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": "git+https://github.com/subtosharki/ts-side-effects.git",
+  "author": "subtosharki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subtosharki/ts-side-effects/issues"
+  },
+  "homepage": "https://github.com/subtosharki/ts-side-effects#readme"
+}
